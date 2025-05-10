@@ -1,5 +1,5 @@
 🚖 Cab Booking App
-A full-featured Cab Booking Application built using Android (Jetpack Compose) / Web (MERN Stack) with separate interfaces for Users and Drivers. The app includes real-time ride requests, tracking, business logic pages, and commission management.
+A full-featured Cab Booking Application built using Java and xml in Android / Web (MERN Stack) with separate interfaces for Users and Drivers. The app includes real-time ride requests, tracking, business logic pages, and commission management.
 
 📱 Features
 User App
