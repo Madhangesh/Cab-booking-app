@@ -32,7 +32,8 @@ Driver App
 
 🧑‍💻 Tech Stack
 Platform	Technologies
-Android App	JAVA, XML, Firebase, Google Maps, Places SDK, WebRTC
+Android App	JAVA, XML,
+Firebase, Google Maps, Places SDK, WebRTC
 Web App	React.js, Node.js, Express.js, MongoDB
 Backend Services	REST API, Firebase Cloud Messaging (for notifications)
 Other Tools	Git, Postman, Android Studio, VS Code
